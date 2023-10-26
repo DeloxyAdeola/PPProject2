@@ -11,5 +11,7 @@ The ETL process was time demanding but it was worth the outcome.
 Findings:
 1. Total sales during the expected period
 2. Shipping duration based on shipping time .
-3. The highest placed order by state 
+3. 
+4. The highest placed order by state
+   
 This project was done by me. 
